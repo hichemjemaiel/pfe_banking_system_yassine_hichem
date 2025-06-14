@@ -1,0 +1,16 @@
+class AuthResponse{
+  String token;
+
+  AuthResponse({required this.token});
+
+  factory AuthResponse.fromJson(Map<String , dynamic> json){
+    return AuthResponse(
+        token: json["token"]);
+  }
+
+  Map<String , dynamic> toJson()=>{
+
+        'token': token
+  };
+
+}

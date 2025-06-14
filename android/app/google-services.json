@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335898239301",
+    "project_id": "pfebanksystem",
+    "storage_bucket": "pfebanksystem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335898239301:android:71880bbbc125c93a759e2c",
+        "android_client_info": {
+          "package_name": "com.example.pfe_banking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRYJPu3JvCr5PJqPCmla2-rst5TcqaSmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

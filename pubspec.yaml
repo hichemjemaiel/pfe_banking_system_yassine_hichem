@@ -1,0 +1,100 @@
+name: pfe_banking_system
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  dio: ^5.8.0+1
+  provider: ^6.1.2
+
+  fl_chart: ^0.70.2
+  flutter_map: ^8.1.1
+  latlong2: ^0.9.1
+  geocoding: ^3.0.0
+  firebase_core: ^3.13.0
+  firebase_messaging: ^15.2.5
+  intl: ^0.20.2
+  cloud_firestore: ^5.6.7
+  flutter_secure_storage: ^9.2.4
+  fluttertoast: ^8.2.12
+  shared_preferences: ^2.2.2
+  pretty_dio_logger: ^1.3.1
+  firebase_analytics: ^11.4.6
+  flutter_local_notifications: ^17.0.0
+  flutter_calendar_carousel: ^2.4.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+      - assets/logo.png
+      - assets/arrow.png
+      - assets/down.png
+      - assets/up.png
+      - assets/money.png
+      - assets/sta.png
+      - assets/historique.png
+      - assets/mny.png
+      - assets/scan.png
+      - assets/service.png
+      - assets/acceuil.png
+      - assets/bambo.png
+      - assets/dbarrow.png
+      - assets/bmny.png
+      - assets/barrow.png
+      - assets/barr.png
+      - assets/qr.png
+      - assets/refresh.png
+      - assets/pone.png
+      - assets/ptwo.png
+      - assets/pthree.png
+      - assets/conf.gif
+      - assets/shop.png
+      - assets/expense.png
+      - assets/car.png
+      - assets/group.png
+      - assets/house.png
+      - assets/plus.png
+      - assets/me.png
+      - assets/sme.png
+      - assets/otp.jpg
+      - assets/Scana.png
+      - assets/bam.png
+      - assets/gonee.png
+      - assets/gtwo.png
+      - assets/gthree.png
+      - assets/dollar.png
+      - assets/bank.png
+      - assets/badge.png
+      - assets/key.png
+      - assets/shield.png
+      - assets/recharge.png
+      - assets/imone.png
+      - assets/imtwo.png
+      - assets/imthree.png
+      - assets/imfour.png
+      - assets/imfive.png
+      - assets/rone.png
+      - assets/rtwo.png
+      - assets/rthree.png
+      - assets/reone.png
+      - assets/retwo.png
+      - assets/rethree.png
+      - assets/refour.png
+      - assets/retone.png
+      - assets/rettwo.png
+      - assets/card.jpg
+      - assets/cancell.gif
+      - assets/card.png
